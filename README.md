@@ -14,7 +14,7 @@ This repository contains a comprehensive market analysis of the Swiggy food deli
 Selenium , Pyhton , Excel
 
 # Steps
-## 1) Extracting Tables for exploration
+## 1) Extracting Columns for exploration
 
  Selenium WebDriver, a powerful tool for automating web interactions, was employed to elegantly navigate and collect data from the Swiggy website. Extracted crucial information about the diverse array of restaurants featured on the platform. This encompassed the acquisition of restaurant URLs, captivating descriptions, and the all-important ratings.
 
