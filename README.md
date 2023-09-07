@@ -20,24 +20,46 @@ Selenium , Pyhton , Excel
 
 ##### 1) koramangala city has the  maximum number of restraunts 
 
-<img width="960" alt="area wise distribution of restraunts" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/840afe5e-3885-4fee-9590-e31c5224e946">
+
+<img width="590" alt="area wise distribution of restraunts 1" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/499d6e27-ab42-4565-aedf-f8e89f7cac92">
+
 
 ##### 2) koramangala city has the maximum restraunts which have total reviews > 1000
 
+
 <img width="597" alt="2nd" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/3249e741-72b5-4a7f-b7a7-892f34214702">
 
+
 ##### 3) Icream & deserts,south Indian,Chinese,North Indian were some of the most popular Cuisines
+
+
 <img width="626" alt="3rd" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/1563ee14-caef-4eb3-ba9e-929e97f2e793">
+
+
 ##### 4) koramangala,Indiranagar,Basavanagudi were among the top places where maximum numbers of orders were placed
+
+
 <img width="562" alt="4th" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/8b96d637-ccf6-477e-bf34-0852a16cbe33">
+
+
 ##### 5) Average prices for all the popular Cuisines
+
+
 <img width="674" alt="5th" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/339d8123-24ee-41e0-a418-80399423560f">
+
 
 ##### 6) among the popular cuisines indian cuisine has the lowest rating
 
+
 <img width="661" alt="6th" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/183d96e0-c2bc-4f72-a578-c798119c786a">
+
+
 ##### 7) Koramangala has the highest low rated restraunts 
+
+
 <img width="618" alt="7th" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/c7d80c9f-6186-4ccf-923e-c22f53c41560">
+
+
 ## 3) Strategic Insights for Launching a Successful Restaurant in Banglore
 
 ### Koramangala: A Strategic Location
