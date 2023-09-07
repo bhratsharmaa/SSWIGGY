@@ -1,4 +1,15 @@
 
+# Swiggy analysis project 
+
+
+This repository contains a comprehensive market analysis of the Swiggy food delivery platform, focusing on the Bangalore region. The data for this analysis was collected using Selenium, cleaned through exploratory data analysis (EDA), and visualized using Excel. The insights generated from this analysis are invaluable for entrepreneurs interested in opening a cloud kitchen/Restraunt in Bangalore.
+
+
+## 🛠 Tools used
+
+
+Selenium , Pyhton , Excel
+
 # Steps
 ## 1) Extracting Tables for exploration
 
@@ -39,4 +50,5 @@ Capitalizing on the popularity of Indian cuisine while maintaining an affordable
 Customer satisfaction can be maximized by offering quality Indian dishes at an attractive price point.
 Additionally, implementing customer feedback and continuously improving the Indian cuisine offerings can help build a loyal customer base.
 Market Research and Adaptation
+
 
