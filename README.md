@@ -1,6 +1,10 @@
 
 # Swiggy analysis project 
 
+![1f9564748e1137642b5d97ec0c9e208a](https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/3b92e18b-ffb1-4b2f-a31c-85914a4293c5)
+
+
+
 This repository contains a comprehensive market analysis of the Swiggy food delivery platform, focusing on the Bangalore region. The data for this analysis was collected using Selenium, cleaned through exploratory data analysis (EDA), and visualized using Excel. The insights generated from this analysis are invaluable for entrepreneurs interested in opening a cloud kitchen/Restraunt in Bangalore.
 
 
