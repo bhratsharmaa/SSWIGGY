@@ -16,7 +16,7 @@ Selenium , Pyhton , Excel
 # Steps
 ## 1) Extracting Columns for exploration
 
- Selenium WebDriver, a powerful tool for automating web interactions, was employed to elegantly navigate and collect data from the Swiggy website. Extracted crucial information about the diverse array of restaurants featured on the platform. This encompassed the acquisition of restaurant URLs, captivating descriptions, and the all-important ratings.
+Selenium WebDriver, a powerful tool for automating web interactions, was employed elegantly to navigate and collect data from the Swiggy website. This involved extracting crucial information about the diverse array of restaurants featured on the platform, including the acquisition of all important columns as shown in the image provided below.
 
  <img width="694" alt="swiggy df'" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/34c81f37-cd17-4d2f-8521-0fa95b68c325">
 
