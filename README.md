@@ -22,28 +22,26 @@ Selenium WebDriver, a powerful tool for automating web interactions, was employe
 
 ## 2) Generating Insights
 
-##### 1) koramangala city has the  maximum number of restraunts 
 
 
 <img width="574" alt="1" src="https://github.com/bhratsharmaa/bhratsharmaa/assets/132134997/1761edab-18f6-4ac5-b269-db9a74a6690b">
 
 
 
-##### 2) koramangala city has the maximum restraunts which have total reviews > 1000
+
 
 
 <img width="577" alt="2" src="https://github.com/bhratsharmaa/bhratsharmaa/assets/132134997/7a2c6a56-a228-4b41-951c-cbb1b3a467bf">
 
 
 
-##### 3) Icream & deserts,south Indian,Chinese,North Indian were some of the most popular Cuisines
+
 
 
 <img width="587" alt="3" src="https://github.com/bhratsharmaa/bhratsharmaa/assets/132134997/1538d218-d16c-4670-ade7-7660b55a32be">
 
 
 
-##### 4) koramangala,Indiranagar,Basavanagudi were among the top places where maximum numbers of orders were placed
 
 
 
@@ -52,15 +50,13 @@ Selenium WebDriver, a powerful tool for automating web interactions, was employe
 
 
 
-##### 5) Average prices for all the popular Cuisines
+
+
+<img width="581" alt="55" src="https://github.com/bhratsharmaa/bhratsharmaa/assets/132134997/0b806a2d-a6f8-41a1-adf9-48506dcdf814">
 
 
 
-<img width="603" alt="5" src="https://github.com/bhratsharmaa/bhratsharmaa/assets/132134997/3040b5f9-c607-4021-8215-729b82f0d401">
 
-
-
-##### 6) among the popular cuisines indian cuisine has the lowest rating
 
 
 
@@ -69,11 +65,10 @@ Selenium WebDriver, a powerful tool for automating web interactions, was employe
 
 
 
-##### 7) Koramangala has the highest low rated restraunts 
 
 
 
-<img width="612" alt="7" src="https://github.com/bhratsharmaa/bhratsharmaa/assets/132134997/da99f2bd-a333-4f09-a86e-f4943dc1bf35">
+<img width="620" alt="77" src="https://github.com/bhratsharmaa/bhratsharmaa/assets/132134997/59a2c62e-2e4e-4ec6-8a04-b40299f5bfe0">
 
 
 
