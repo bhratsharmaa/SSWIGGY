@@ -25,43 +25,58 @@ Selenium WebDriver, a powerful tool for automating web interactions, was employe
 ##### 1) koramangala city has the  maximum number of restraunts 
 
 
-<img width="590" alt="area wise distribution of restraunts 1" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/499d6e27-ab42-4565-aedf-f8e89f7cac92">
+<img width="574" alt="1" src="https://github.com/bhratsharmaa/bhratsharmaa/assets/132134997/1761edab-18f6-4ac5-b269-db9a74a6690b">
+
 
 
 ##### 2) koramangala city has the maximum restraunts which have total reviews > 1000
 
 
-<img width="597" alt="2nd" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/3249e741-72b5-4a7f-b7a7-892f34214702">
+<img width="577" alt="2" src="https://github.com/bhratsharmaa/bhratsharmaa/assets/132134997/7a2c6a56-a228-4b41-951c-cbb1b3a467bf">
+
 
 
 ##### 3) Icream & deserts,south Indian,Chinese,North Indian were some of the most popular Cuisines
 
 
-<img width="626" alt="3rd" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/1563ee14-caef-4eb3-ba9e-929e97f2e793">
+<img width="587" alt="3" src="https://github.com/bhratsharmaa/bhratsharmaa/assets/132134997/1538d218-d16c-4670-ade7-7660b55a32be">
+
 
 
 ##### 4) koramangala,Indiranagar,Basavanagudi were among the top places where maximum numbers of orders were placed
 
 
-<img width="562" alt="4th" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/8b96d637-ccf6-477e-bf34-0852a16cbe33">
+
+<img width="557" alt="4" src="https://github.com/bhratsharmaa/bhratsharmaa/assets/132134997/70d31170-25e4-4005-88d1-6f9a3b8264c0">
+
+
 
 
 ##### 5) Average prices for all the popular Cuisines
 
 
-<img width="674" alt="5th" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/339d8123-24ee-41e0-a418-80399423560f">
+
+<img width="603" alt="5" src="https://github.com/bhratsharmaa/bhratsharmaa/assets/132134997/3040b5f9-c607-4021-8215-729b82f0d401">
+
 
 
 ##### 6) among the popular cuisines indian cuisine has the lowest rating
 
 
-<img width="661" alt="6th" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/183d96e0-c2bc-4f72-a578-c798119c786a">
+
+<img width="656" alt="6" src="https://github.com/bhratsharmaa/bhratsharmaa/assets/132134997/cc3a306b-bd46-4a48-9427-b14b8a9eb88a">
+
+
 
 
 ##### 7) Koramangala has the highest low rated restraunts 
 
 
-<img width="618" alt="7th" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/c7d80c9f-6186-4ccf-923e-c22f53c41560">
+
+<img width="612" alt="7" src="https://github.com/bhratsharmaa/bhratsharmaa/assets/132134997/da99f2bd-a333-4f09-a86e-f4943dc1bf35">
+
+
+
 
 
 ## 3) Strategic Insights for Launching a Successful Restaurant in Banglore
