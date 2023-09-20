@@ -74,7 +74,7 @@ Selenium WebDriver, a powerful tool for automating web interactions, was employe
 
 
 
-## 3) Strategic Insights for Launching a Successful Restaurant in Banglore
+## 3) Strategic Insights for Launching a Successful Restaurant/cloud kitchen in Bangalore
 
 ### Koramangala: A Strategic Location
 
