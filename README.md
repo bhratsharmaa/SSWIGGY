@@ -5,7 +5,77 @@
 
 
 
-This repository contains a comprehensive market analysis of the Swiggy food delivery platform, focusing on the Bangalore region. The data for this analysis was collected using Selenium, cleaned through exploratory data analysis (EDA), and visualized using Excel. The insights generated from this analysis are invaluable for entrepreneurs interested in opening a cloud kitchen/Restraunt in Bangalore.
+# Aim:
+
+The project's primary goal was to analyze Swiggy's data in Bangalore thoroughly and extract valuable insights. The resulting insights aim to act as a strategic compass for individuals aspiring to establish a cloud kitchen in Bangalore, offering a nuanced understanding of the city's culinary preferences and market dynamics.
+
+# Project Description:
+
+Our project embarked on a data-driven journey to unlock the secrets of Bangalore's culinary landscape. Leveraging Selenium, we meticulously extracted a wealth of data from Swiggy, the city's foremost food delivery platform. This raw data was then skillfully processed and loaded into Excel for in-depth analysis. Utilizing the power of data visualization, we crafted insightful charts and graphs that illuminated trends, customer preferences, and peak ordering hours.
+
+These visualizations served as our compass, guiding us toward providing actionable recommendations for aspiring entrepreneurs seeking to establish a successful cloud kitchen in Bangalore. Our project stands as a testament to the potential of data in gastronomic entrepreneurship, offering strategic insights derived from the rich tapestry of Bangalore's food culture.
+
+
+
+
+# Web Scrapping 
+
+### 1) Data Extraction from Swiggy:
+
+This code uses Selenium to scrape restaurant data from Swiggy's website, including URLs, names, cuisines, ratings, and prices, and organizes it into a list for analysis.
+
+
+
+
+<img width="603" alt="1ws" src="https://github.com/bhratsharmaa/Swiggy-analysis/assets/132134997/2cc3718b-a3cd-4ab0-86fb-e69f1aaa1696">
+
+
+
+
+
+
+### 2) Detailed Restaurant Information Extraction: 
+
+Using Selenium, this code accesses individual restaurant pages, extracting location, review counts, dish names, and prices, and appending them to a separate list.
+
+
+
+
+
+
+
+<img width="581" alt="2ws" src="https://github.com/bhratsharmaa/Swiggy-analysis/assets/132134997/7586dc69-dff3-44f6-9c31-0b600fea4ecc">
+
+
+
+
+
+
+
+
+
+### 3) Iterative Data Collection:
+
+This segment iteratively collects detailed data for 100 restaurants, creating a new browser instance for each. It scrolls through pages, extracts dish details, and compiles structured data for analysis. These steps form the foundation for deriving insights to assist in the successful establishment of a cloud kitchen in Bangalore.
+
+
+
+
+
+
+
+
+<img width="497" alt="3ws" src="https://github.com/bhratsharmaa/Swiggy-analysis/assets/132134997/5f04f16a-64d2-4168-bc2d-9cd0c154a4ec">
+
+
+
+
+
+
+
+
+
+
 
 
 ## 🛠 Tools used
@@ -99,5 +169,24 @@ Capitalizing on the popularity of Indian cuisine while maintaining an affordable
 Customer satisfaction can be maximized by offering quality Indian dishes at an attractive price point.
 Additionally, implementing customer feedback and continuously improving the Indian cuisine offerings can help build a loyal customer base.
 Market Research and Adaptation
+
+
+## Chalenges faced:
+
+### 1) Data Extraction from Multiple Pages:
+
+Extracting data from various pages while web scraping can be challenging due to pagination, differing structures, or dynamic content loading. Overcoming these obstacles requires robust automation techniques to ensure comprehensive data collection.
+
+### 2) Identifying Key Visualizations: 
+
+Selecting the most informative and relevant visualizations from the collected data can be tricky. It involves choosing the right charts or graphs to effectively convey insights without overwhelming the audience with excessive information.
+
+### 3) Effective Data Presentation:
+
+Crafting a compelling presentation with visuals that facilitate decision-making can be demanding. It requires not only creating visually appealing charts but also structuring the narrative effectively to convey insights and recommendations clearly to management.
+
+
+
+
 
 
