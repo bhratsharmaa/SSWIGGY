@@ -78,14 +78,14 @@ This segment iteratively collects detailed data for 100 restaurants, creating a 
 
 
 
-## 🛠 Tools used
+# 🛠 Tools used
 
 
 Selenium , Pyhton , Excel
 
 
 
-## 2) Generating Insights
+# Generating Insights
 
 
 
