@@ -139,7 +139,7 @@ Selenium , Pyhton , Excel
 
 
 
-## 3) Strategic Insights for Launching a Successful Restaurant/cloud kitchen in Bangalore
+# Strategic Insights for Launching a Successful Restaurant/cloud kitchen in Bangalore
 
 ### Koramangala: A Strategic Location
 
@@ -166,7 +166,7 @@ Additionally, implementing customer feedback and continuously improving the Indi
 Market Research and Adaptation
 
 
-## Chalenges faced:
+# Chalenges faced:
 
 ### 1) Data Extraction from Multiple Pages:
 
