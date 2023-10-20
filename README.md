@@ -1,16 +1,5 @@
 
 
-
-
-
-
-
-https://github.com/bhratsharmaa/Swiggy-analysis/assets/132134997/0c660c2d-06fb-475c-85f2-ae17c0c5dedb
-
-
-
-
-
 # Swiggy analysis project 
 
 ![1f9564748e1137642b5d97ec0c9e208a](https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/3b92e18b-ffb1-4b2f-a31c-85914a4293c5)
